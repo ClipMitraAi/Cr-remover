@@ -1,0 +1,6 @@
+{
+  "name": "RightsLab - Educational DRM & Content ID Studio",
+  "description": "Educational platform for understanding DRM, Content ID audio/video fingerprinting, Fair Use evaluation, and safe social media video repurposing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
